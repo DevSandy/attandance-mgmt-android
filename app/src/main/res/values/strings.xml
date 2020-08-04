@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ayesha</string>
+    <array name="classes">
+        <item>select Class</item>>
+        <item>Cse 1st sem</item>
+        <item>Cse 2st sem</item>
+        <item>Cse 3st sem</item>
+        <item>Cse 4st sem</item>
+        <item>Cse 5st sem</item>
+        <item>Cse 6st sem</item>
+        <item>Cse 7st sem</item>
+        <item>Cse 8st sem</item>
+
+    </array>
+    <array name="periods">
+        <item>select Period</item>>
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+
+    </array>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002490600623",
+    "firebase_url": "https://ayesha-bd75e.firebaseio.com",
+    "project_id": "ayesha-bd75e",
+    "storage_bucket": "ayesha-bd75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002490600623:android:82e219797cf8823056085a",
+        "android_client_info": {
+          "package_name": "com.aceaccestack.ayesha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002490600623-g9un7qgfcbj143nh80o1ccrfijs9n7bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJ9QiBI3BAFxbHtEVT2gtf37O_tRFSko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002490600623-g9un7qgfcbj143nh80o1ccrfijs9n7bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
